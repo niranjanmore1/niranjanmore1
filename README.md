@@ -1,5 +1,5 @@
 ## Hi there 👋<h1 align="center">Hi 👋, I'm Niranjan Subhash More</h1>
-<h3 align="center">Hi, I’m, currently working as a Java Developer Intern. Alongside my experience in Java development, I’m passionate about expanding my expertise into the fields of data science and business analysis. I’m eager to integrate my programming skills with analytical techniques to solve complex problems and deliver impactful insights. My goal is to continuously grow as a versatile professional, contributing to innovative projects and leveraging technology to drive business success.</h3>
+<h3 align="center">Hi, I’m, currently working as Fullstack Developer. Alongside my experience in Java development, I’m passionate about expanding my expertise into the fields of data science and business analysis. I’m eager to integrate my programming skills with analytical techniques to solve complex problems and deliver impactful insights. My goal is to continuously grow as a versatile professional, contributing to innovative projects and leveraging technology to drive business success.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niranjanmore1&label=Profile%20views&color=0e75b6&style=flat" alt="niranjanmore1" /> </p>
 
