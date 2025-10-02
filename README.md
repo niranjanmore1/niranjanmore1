@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=niranjanmore1" alt="niranjanmore1" /></a> </p>
 
-- 🔭 I’m currently working on [Cognifyz Technologies](https://github.com/niranjanmore1/COGNIFYZ-TECHNOLOGIES)
+- 🔭 Worked at Software Developer Engineer Intern at Bluestock Fintech,Pune.
 
 - 🌱 I’m currently learning **Spring,Hibernate,PowerBI,ML**
 
